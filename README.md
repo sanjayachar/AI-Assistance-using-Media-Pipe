@@ -12,8 +12,3 @@ To use the program:
 6. a new window will open up, make sure to select that window.
 7. Finally, perform your exercise infront of your webcam, make sure your full body is in the screen.
 8. Press 'q' on your keyboard when you want to end the program after your exercise.
-
-Have fun using the program!
-
-
-Note. this is a Monash University final year project completed under the collaboration of Kai Lin Wong, Eu Yang Chai and Kee Hong Tan; under the supervision of Dr Raphael Phan.
