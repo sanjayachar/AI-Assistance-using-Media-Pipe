@@ -1,4 +1,4 @@
-# AI Gym Trainer Python program
+# AI Assistance using Media Pipe
 monitors your exercises to help you keep count of your exercise repetitions performed, but also alerts you when you have an incorrect posture or have not performed a full repetition. A visualization chart depicting your performance throughout the exercise will be displayed when you end the program.
 
 Exercises supported: Squat, Arm curl, Situp.
